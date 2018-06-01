@@ -1,8 +1,8 @@
 {
-    "name": "cjtterabytesoft/yii",
-    "description": "Yii PHP Framework Version 2 - Development Package",
+    "name": "cjtterabytesoft/yii3",
+    "description": "Yii PHP Framework Version 3 - Development Package",
     "keywords": [
-        "yii2",
+        "yii3",
         "framework"
     ],
     "homepage": "http://www.yiiframework.com/",
