@@ -90,8 +90,8 @@
     },
     "autoload": {
         "psr-4": {
-            "yii\\": "framework/",
-            "yii\\cs\\": "cs/src/"
+            "cjtterabytesoft\\yii\\": "framework/",
+            "cjtterabytesoft\\yii\\cs\\": "cs/src/"
         },
         "classmap": [
             "framework/Yii.php"
@@ -99,8 +99,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "yiiunit\\": "tests/",
-            "yii\\build\\": "build/"
+            "cjtterabytesoft\\yiiunit\\": "tests/",
+            "cjtterabytesoft\\yii\\build\\": "build/"
         }
     },
     "config": {
@@ -111,7 +111,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "3.0.x-dev"
         }
     }
 }
